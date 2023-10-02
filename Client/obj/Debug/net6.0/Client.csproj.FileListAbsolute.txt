@@ -1,0 +1,14 @@
+X:\VS2022_Projects\MyProjects\Client-Server\Client\bin\Debug\net6.0\Client.exe
+X:\VS2022_Projects\MyProjects\Client-Server\Client\bin\Debug\net6.0\Client.deps.json
+X:\VS2022_Projects\MyProjects\Client-Server\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+X:\VS2022_Projects\MyProjects\Client-Server\Client\bin\Debug\net6.0\Client.dll
+X:\VS2022_Projects\MyProjects\Client-Server\Client\bin\Debug\net6.0\Client.pdb
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.dll
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\refint\Client.dll
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.pdb
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+X:\VS2022_Projects\MyProjects\Client-Server\Client\obj\Debug\net6.0\ref\Client.dll
